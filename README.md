@@ -1,4 +1,4 @@
-# Krishna Teja Ganesh
+# Krishnateja Ganesh
 
 ### AI Developer | LLM, RAG & Agentic AI | OpenAI, LangChain, Azure | PhD in AI
 
